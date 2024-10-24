@@ -13,7 +13,7 @@ const connect = function () {
   conn.setEncoding("utf8");
 
   conn.on('connect', () => {
-    console.log("Name: ___")
+    console.log("New User connected!")
   })
 
   conn.on('connect', () => {
