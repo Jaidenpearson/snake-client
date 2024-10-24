@@ -1,1 +1,1 @@
-const client = require("./client")
+const connect = require("./client")
